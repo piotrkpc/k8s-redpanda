@@ -1,0 +1,7 @@
+apiVersion: redpanda.vectorized.io/v1alpha1
+kind: Redpanda
+metadata:
+  name: redpanda-sample
+spec:
+  # Add fields here
+  foo: bar

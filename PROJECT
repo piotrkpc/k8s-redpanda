@@ -1,0 +1,7 @@
+domain: vectorized.io
+layout: go.kubebuilder.io/v2
+projectName: k8s-redpanda
+repo: https://github.com/piotrkpc/k8s-redpanda
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
